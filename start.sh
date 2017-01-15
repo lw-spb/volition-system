@@ -1,1 +1,1 @@
-geth --identity 'YOUR_IDENTITY' --datadir data --networkid 1900 --bootnodes enode://0ecccc68434cfc801f9861bef5000e707d39fa355d83b32de276f8d72791d386d69739068016ada8d572c5140d516618cb66e52f50671558465bd00787aa70fc@104.199.46.84:30303 --fast console
+geth --identity 'gvsmirnov' --datadir data --networkid 1900 --bootnodes enode://ebde7e61f4ec551544b683c0eab04908a646c781bc50e93478643a7f39371657f9dbe06b41b801d094f70c00c5168c7395a08ca32a83be8025d76e5b53be51fe@104.199.46.84:30303 --fast console
